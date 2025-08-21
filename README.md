@@ -9,7 +9,7 @@ The results are visualized in a **Power BI dashboard**, with centroids highlight
 ---
 
 ## 📊 Dataset
-- **Rows:** 200  
+- **Rows:** Near about 200  
 - **Columns:** Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age, Outcome  
 
 Synthetic dataset created for demonstration.
@@ -19,7 +19,8 @@ Synthetic dataset created for demonstration.
 
 ## 📁 Files
 - `diabetes_dataset.csv` → sample dataset    
-- `kmeans.pbix` → Power BI dashboard file  
+- `kmeans.pbix` → Power BI dashboard file
+- `pythonscript.py` → Python Script for Clustering
 
 ---
 
